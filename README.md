@@ -1,5 +1,5 @@
 ## Hello, friend.
-![My honest reaction](https://tenor.com/bX4df.gif)
+![My honest reaction](https://media.giphy.com/media/92jYkH87yxV1C/giphy.gif)
 
 Hey there, fellow GitHubbers! 👋 I'm [Your Name], a code enthusiast and a proud student at 42AbuDhabi. I'm here to make the digital world a more exciting and creative place, one commit at a time. Whether it's Python, MySQL, or C, I've got you covered. Let's embark on this coding journey together!
 
