@@ -11,7 +11,7 @@ Hey there, fellow GitHubbers! 👋 I'm [Your Name], a code enthusiast and a prou
 - 💬 ik Python, MySQL, and C
 - 🎮 i like games, mostly minecraft
 - 🎨 trying to do more creatively fulfilling stuff, love pixel art
-- my fav color is orang
+- my fav color is orang 🟧
 
 ## What I'm Working On
 - 🚀 push swap 😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
@@ -26,3 +26,6 @@ I'm always up for a coding challenge or just a chat about the latest tech trends
 ## 🎉 Thanks for stopping by! Let's build some awesome projects together! 🎉
 
 ![Crazy Cat Coder](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+## I used Chatgpt for this lol, changed a couple of things tho. This was the prompt:
+make a epic funny cool hip cringe some what worrying readme.md file for my github profile, i know python, mysql and C, intereseted in Game Development, Pixel art and most Creative oriented things, study at 42abudhabi
