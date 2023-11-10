@@ -14,7 +14,7 @@ Hey there, fellow GitHubbers! 👋 I'm [Your Name], a code enthusiast and a prou
 - my fav color is orang 🟧
 
 ## What I'm Working On
-- 🚀 push swap 😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
+- 🚀 minishell 😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
 
 ## Let's Connect
 I'm always up for a coding challenge or just a chat about the latest tech trends. You can find me on:
