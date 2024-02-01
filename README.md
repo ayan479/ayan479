@@ -28,4 +28,4 @@ I'm always up for a coding challenge or just a chat about the latest tech trends
 ![Crazy Cat Coder](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## I used Chatgpt for this lol, changed a couple of things tho. This was the prompt:
-make a epic funny cool hip cringe some what worrying readme.md file for my github profile, i know python, mysql and C, intereseted in Game Development, Pixel art and most Creative oriented things, study at 42abudhabi
+make a epic funny cool hip cringe some what worrying readme.md file for my github profile, i know python, mysql and C, interested in Game Development, Pixel art and most Creatively oriented things, study at 42abudhabi
