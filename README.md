@@ -65,5 +65,5 @@ make a epic funny cool hip cringe some what worrying readme.md file for my githu
 
 
 
-
-![Bingus](https://github.com/ayan479/ayan479/blob/main/bingus.gif)</pre>
+</pre>
+![Bingus](https://github.com/ayan479/ayan479/blob/main/bingus.gif)
