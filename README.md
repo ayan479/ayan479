@@ -30,7 +30,36 @@ I'm always up for a coding challenge or just a chat about the latest tech trends
 ## I used Chatgpt for this lol, changed a couple of things tho. This was the prompt:
 make a epic funny cool hip cringe some what worrying readme.md file for my github profile, i know python, mysql and C, interested in Game Development, Pixel art and most Creatively oriented things, study at 42abudhabi
 <br />
-<br /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
