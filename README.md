@@ -21,7 +21,7 @@ I'm always up for a coding challenge or just a chat about the latest tech trends
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/elonmuskamiritewhataguyIlovetwitterImeanX)
 - 📷 Instagram: [@YourInstagramHandle](https://www.instagram.com/glorytometa)
 - 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/mohammad-ayan-8692a7262/)
-- 🌐 Personal Website: [YourPortfolio](https://ayansportofolio.weebly.com/)
+- 🌐 Personal Website: [YourPortfolio](https://ayansportfolio.weebly.com/)
 
 ## 🎉 Thanks for stopping by! Let's build some awesome projects together! 🎉
 
