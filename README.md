@@ -20,8 +20,8 @@ Hey there, fellow GitHubbers! 👋 I'm [Your Name], a code enthusiast and a prou
 I'm always up for a coding challenge or just a chat about the latest tech trends. You can find me on:
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/elonmuskamiritewhataguyIlovetwitterImeanX)
 - 📷 Instagram: [@YourInstagramHandle](https://www.instagram.com/glorytometa)
-- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/ineedtogetajob)
-- 🌐 Personal Website: [YourPortfolio]([https://www.ayansportofolio.weebly.com](https://ayansportofolio.weebly.com/))
+- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/mohammad-ayan-8692a7262/)
+- 🌐 Personal Website: [YourPortfolio](https://ayansportofolio.weebly.com/)
 
 ## 🎉 Thanks for stopping by! Let's build some awesome projects together! 🎉
 
