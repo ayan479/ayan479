@@ -6,7 +6,7 @@ Hey there, fellow GitHubbers! 👋 I'm [Your Name], a code enthusiast and a prou
 
 ## About Meeeeeeeeeeeeeeeeeeeee :33
 - 😄
-- 💻 Currently Learning: Game Development, Pixel Art, and C!
+- 💻 Currently Learning: Game Development, Pixel Art, and C/CPP!
 - 🎓 Student at 42Abu Dhabi
 - 💬 ik Python, MySQL, and C
 - 🎮 i like games, mostly minecraft
